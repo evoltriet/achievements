@@ -1,8 +1,8 @@
 # Achievements
 ## Summary
-- Certifications acquired - 4
+- Certifications acquired - 5
 - Patents filed - 4
-- Conferences attended - 5
+- Conferences attended - 4
 ## Patents
 4 Filed Patents at UHG.
 
