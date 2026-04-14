@@ -29,4 +29,4 @@ The files are organized as evidence of growth across technical learning, applied
 
 ## Broader Context
 
-My broader resume also references filed patents and other AI review-board or innovation work. Those are part of the professional background, but they are not stored as repo artifacts here, so I am not listing them as repository contents.
+Broader resume materials also reference filed patents and other AI review-board or innovation work. Those are part of the professional background, but they are not stored as repo artifacts here, so they are not listed as repository contents.
