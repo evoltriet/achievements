@@ -26,5 +26,5 @@ Summary badge: [credential link](https://www.credential.net/d923bace-4387-4c92-a
 ### Patents
 4 Filed Patents at UHG.
 
-Badge link:  https://www.credential.net/d923bace-4387-4c92-a93a-c04d6963ea5e#gs.v3794g
+Badge link:  [https://www.credential.net/d923bace-4387-4c92-a93a-c04d6963ea5e#gs.v3794g](https://www.credential.net/2809948d-8e22-45e4-9c49-64588e7d2fc7#acc.t7u3yOKM)
 
