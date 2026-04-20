@@ -23,7 +23,8 @@ Summary badge: [credential link](https://www.credential.net/d923bace-4387-4c92-a
 
 - [Cognitive Technology Poster.pdf](papers/Cognitive%20Technology%20Poster.pdf) - Poster-style research/presentation artifact on cognitive technology.
 
-## How To Read This Repo
+### Patents
+4 Filed Patents at UHG.
 
-The files are organized as evidence of growth across technical learning, applied ML, and presentation work. They are not meant to be executed like a software project.
+Badge link:  https://www.credential.net/d923bace-4387-4c92-a93a-c04d6963ea5e#gs.v3794g
 
