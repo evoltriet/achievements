@@ -27,6 +27,3 @@ Summary badge: [credential link](https://www.credential.net/d923bace-4387-4c92-a
 
 The files are organized as evidence of growth across technical learning, applied ML, and presentation work. They are not meant to be executed like a software project.
 
-## Broader Context
-
-Broader resume materials also reference filed patents and other AI review-board or innovation work. Those are part of the professional background, but they are not stored as repo artifacts here, so they are not listed as repository contents.
