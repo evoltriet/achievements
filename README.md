@@ -19,7 +19,7 @@ This repository is a curated portfolio of professional achievements: granted pat
 
 **Approach:** The disclosed method trains graph representations to limit dependence on selected evaluation features, predicts those features separately, and combines feature-confidence scoring with node predictions to evaluate the model.
 
-**Outcome:** A granted U.S. patent recognizing the disclosed method, with Triet Pham named among five inventors.
+**Outcome:** The techniques are applicable to a wide range of domains, including healthcare data integration, entity resolution, recommendation systems, and enterprise knowledge management, where large-scale graph-structured data requires robust, automated evaluation.
 
 Broader patent activity includes four patent filings at UHG. See the [patent-filing credential](https://www.credential.net/2809948d-8e22-45e4-9c49-64588e7d2fc7#acc.t7u3yOKM).
 
